@@ -11,6 +11,7 @@ Data Available in refrence to the Manuscript: **Can LSTM Neural Networks learn p
 
 **Narrabeen**
   - Available upon request
+  - Wave data partially available on the MHL website https://mhl.nsw.gov.au/Station-SYDDOW
 
 **Gold Coast**
   - Available upon request
