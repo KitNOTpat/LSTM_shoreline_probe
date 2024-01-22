@@ -12,8 +12,7 @@ Ocean Beach:
 North Head:
    
   - Wave data captured from [wave buoy NDBC 46029](https://www.ndbc.noaa.gov/station_page.php?station=46029) and gapfilled w/ [NDBC 46041](https://www.ndbc.noaa.gov/station_page.php?station=46041)
-  - Shoreline data
-
+  - Shoreline data provided by R. Holman and J. Stanley of Coastal Imaging Lab (CIL, Oregon State University)
 
 **Narrabeen**
   - Available upon request
