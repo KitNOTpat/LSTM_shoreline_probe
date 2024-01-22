@@ -14,11 +14,7 @@ North Head:
   - Wave data captured from [wave buoy NDBC 46029](https://www.ndbc.noaa.gov/station_page.php?station=46029) and gapfilled w/ [NDBC 46041](https://www.ndbc.noaa.gov/station_page.php?station=46041)
   - Shoreline data provided by R. Holman and J. Stanley of Coastal Imaging Lab (CIL, Oregon State University)
 
-**Narrabeen**
-  - Wave data partially available on the MHL website https://mhl.nsw.gov.au/Station-SYDDOW , full dataset available upon request
-  - Available upon request
-  
-**Gold Coast**
-  - Available upon request
+**Narrabeen & Gold Coast**
+  - Shorelines derived from Argus data at Gold Coast and Narrabeen were supplied by the Water Research Laboratory of UNSW Australia, in collaboration with Warringah Council and Gold Coast City Council. Data Available upon request
     
 
