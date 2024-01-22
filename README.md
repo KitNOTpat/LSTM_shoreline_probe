@@ -17,7 +17,7 @@ North Head:
 
 **Narrabeen**
   - Available upon request
-  - Wave data partially available on the MHL website https://mhl.nsw.gov.au/Station-SYDDOW
+  - Wave data partially available on the MHL website https://mhl.nsw.gov.au/Station-SYDDOW , full dataset available upon request
 
 **Gold Coast**
   - Available upon request
