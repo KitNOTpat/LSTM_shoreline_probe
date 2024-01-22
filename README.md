@@ -6,5 +6,9 @@ Torrey Pines:
   - The shoreline data may be found in the data repository https://datadryad.org/stash/dataset/doi:10.5061/dryad.n5qb383 as described in [this paper](https://www.nature.com/articles/s41597-019-0167-6)
 
 Narrabeen
-  - Shoreline Data for narrabeen used in this study is part of an unreleased data package from Argus Imagery
+  - Available upon request
+
+Gold Coast
+  - Available upon request
+    
 
