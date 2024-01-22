@@ -8,6 +8,7 @@ Data Available in reference to the Manuscript: **_Can LSTM Neural Networks learn
   
 Ocean Beach:
   - Wave data is sourced from the deep water [CDIP 029 buoy](https://cdip.ucsd.edu/m/products/?stn=029p1)
+  - The collection of bathymetric and topographic data was facilitated with support from the U.S. Geological Survey (USGS) and the San Francisco District of the United States Army Corps of Engineers.
 
 North Head:
    
