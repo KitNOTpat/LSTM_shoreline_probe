@@ -1,4 +1,4 @@
-# Data
+# Data Availability Statement
 
 Data Available in refrence to the Manuscript: **Can LSTM Neural Networks learn physically meaningful principles? A case study in sandy shoreline modelling**
 
