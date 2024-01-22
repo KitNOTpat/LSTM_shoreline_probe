@@ -1,6 +1,6 @@
 # Data Availability Statement
 
-Data Available in reference to the Manuscript: **Can LSTM Neural Networks learn physically meaningful principles? A case study in sandy shoreline modelling**
+Data Available in reference to the Manuscript: **_Can LSTM Neural Networks learn physically meaningful principles? A case study in sandy shoreline modelling_**
 
 **Torrey Pines**:
   - Wave data is sourced from the deep water [CDIP 100 buoy](https://cdip.ucsd.edu/m/products/?stn=100p1&param=waveHs)
