@@ -16,6 +16,6 @@ North Head:
   - Shoreline data provided by R. Holman and J. Stanley of Coastal Imaging Lab (CIL, Oregon State University)
 
 **Narrabeen & Gold Coast**
-  - Shorelines derived from Argus data at Gold Coast and Narrabeen were supplied by the Water Research Laboratory of UNSW Australia, in collaboration with Warringah Council and Gold Coast City Council. Data Available upon request
+  - Shoreline and Wave data derived from Argus Imagery and Wave buoys at Gold Coast and Narrabeen were supplied by the Water Research Laboratory of UNSW Australia, in collaboration with Warringah Council and Gold Coast City Council. Data Available upon request
     
 
