@@ -1,0 +1,79 @@
+# MODEL SETTINGS
+
+# ----> Run settings <----
+run_name: '' #seq_{sequence Length}_batch_{batch size}_metric_{dx or absx}
+run_dir: C:\Users\z5427027\OneDrive - UNSW\Documents\Python Scripts\lstm_pytorch\results\runs
+case: 'narra2019'  # must be either 'narra2019', 'narra2014' or 'synthetic'
+
+# ----> LSTM settings <----
+
+forecast_lead: 1
+stacked_lstm_no: 1
+neuron_dropout: 0.2
+
+# ----> Training configuration <----
+optimizer: Adam
+loss: MSE
+# loss_metric: 'absX' 
+
+train_start_date: '2012-12-21' # format: YYYY-MM-DD
+train_end_date: '2019-12-12'
+
+batch_size: 5
+sequence_length: 10
+learning_rate: 1e-4
+epochs: 11
+num_hidden_units: 200
+
+# ---->  Probe <----
+collect: True
+
+# ---->  Data configurations <----
+# variable to predict
+target: 'dx'
+
+dynamic_inputs:
+# - 'H'
+# - 'T'
+# - 'Dir'
+- 'Hsig_0'
+- 'Hsig_1'
+- 'Hsig_2'
+- 'Hsig_peak_0'
+- 'Hsig_peak_1'
+- 'Hsig_peak_2'
+# - 'Power_0'
+# - 'Power_1'
+# - 'Power_2'
+# - 'Power_peak_0'
+# - 'Power_peak_1'
+# - 'Power_peak_2'
+- 'Tp_0'
+- 'Tp_1'
+- 'Tp_2'
+- 'Tp_peak_0'
+- 'Tp_peak_1'
+- 'Tp_peak_2'
+# - 'WL_mean_0'
+# - 'WL_mean_1'
+# - 'WL_mean_2'
+# - 'WL_mean_peak_0'
+# - 'WL_mean_peak_1'
+# - 'WL_mean_peak_2'
+# - 'WL_near_0'
+# - 'WL_near_1'
+# - 'WL_near_2'
+# - 'WL_near_peak_0'
+# - 'WL_near_peak_1'
+# - 'WL_near_peak_2'
+- 'Wdir_0'
+- 'Wdir_1'
+- 'Wdir_2'
+- 'Wdir_peak_0'
+- 'Wdir_peak_1'
+- 'Wdir_peak_2'
+
+
+
+
+
