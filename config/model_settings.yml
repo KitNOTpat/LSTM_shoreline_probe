@@ -3,6 +3,8 @@
 # ----> Run settings <----
 case: '2016_TorreyPines_1D'
 
+# 2016_TorreyPines_1D
+
 # ----> LSTM settings <----
 
 stacked_lstm_no: 1
@@ -17,8 +19,8 @@ runs: 1 # number models run during training
 
 batch_size: 20
 sequence_length: 1
-learning_rate: 1e-3
-epochs: 40
+learning_rate: 0.0015
+epochs: 25
 num_hidden_units: 7
 
 # ---->  Data configurations <----

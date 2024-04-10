@@ -45,8 +45,8 @@ def work(df_train, data_loader, model, scalers, start_date, settings):
                 preds[idx] = thispred
 
                 true_preds[idx] = torch.add(prev_x.flatten()[-1], thispred)
-                if idx < len(X)-1:
-                    shoreline_in = torch.add(prev_x.flatten()[-1], thispred)
+                # if idx < len(X)-1:
+                shoreline_in = torch.add(prev_x.flatten()[-1], thispred)
                 
 
             output = torch.cat((output,true_preds.flatten()[-batch_size:]), 0)

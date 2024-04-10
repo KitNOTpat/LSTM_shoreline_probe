@@ -46,8 +46,6 @@ class LSTM(nn.Module):
         out = self.linear(hn).flatten()
 
         return out, (torch.unsqueeze(hn, 0), cn)
-        
-
 
 #####################################################
 #####################################################
