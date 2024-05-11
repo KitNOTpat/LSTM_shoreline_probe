@@ -60,8 +60,6 @@ def init_prevX(df, seq_len, start_date, settings):
 
     if seq_len > 1:
 
-        #prev_x = torch.tensor(df[settings['shoreline']][:start_date][-seq_len:].values).float().reshape(seq_len,1)
-
         last_sl_position = df[settings['shoreline']][:start_date].dropna().values[-seq_len:]
         prev_x = torch.tensor(last_sl_position).float().reshape(seq_len,1)
 
